@@ -1,0 +1,1 @@
+(FlavorDelta[f2, fa, HoldFlavor -> True]*FlavorDelta[f4, fd, HoldFlavor -> True]*(CA*Condensate[{fc, f3}]*Condensate[{fd, "G", f4}]*FlavorDelta[f1, fb, HoldFlavor -> True]*FlavorDelta[f3, fc, HoldFlavor -> True] + Condensate[{fc, fb}]*Condensate[{f1, "G", f3}]*FlavorDelta[f1, f3, HoldFlavor -> True]*FlavorDelta[fb, fc, HoldFlavor -> True]))/(32*CA*Pi^2)
