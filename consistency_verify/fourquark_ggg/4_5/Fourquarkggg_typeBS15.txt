@@ -1,0 +1,1 @@
+(13*Condensate["ggg"]*FlavorDelta[f1, fa, HoldFlavor -> True]*FlavorDelta[f2, fb, HoldFlavor -> True]*FlavorDelta[f3, fd, HoldFlavor -> True]*FlavorDelta[f4, fc, HoldFlavor -> True]*Pair[Momentum[q, D], Momentum[q, D]])/(110592*Pi^6)

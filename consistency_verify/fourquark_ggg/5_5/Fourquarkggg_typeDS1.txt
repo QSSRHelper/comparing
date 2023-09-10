@@ -1,0 +1,1 @@
+(Condensate["ggg"]*(43*CA*FlavorDelta[f1, fb, HoldFlavor -> True]*FlavorDelta[f2, fa, HoldFlavor -> True] + 6*FlavorDelta[f1, fa, HoldFlavor -> True]*FlavorDelta[f2, fb, HoldFlavor -> True])*FlavorDelta[f3, fd, HoldFlavor -> True]*FlavorDelta[f4, fc, HoldFlavor -> True]*Pair[Momentum[q, D], Momentum[q, D]])/(165888*Pi^6)

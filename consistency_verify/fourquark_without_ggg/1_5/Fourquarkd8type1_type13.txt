@@ -1,0 +1,1 @@
+(7*(-1 + CA^2)*Condensate[{f1, f3}]*Condensate[{fc, "G", fa}]*FlavorDelta[f1, f3, HoldFlavor -> True]*FlavorDelta[f2, fb, HoldFlavor -> True]*FlavorDelta[f4, fd, HoldFlavor -> True]*FlavorDelta[fa, fc, HoldFlavor -> True]*Pair[LorentzIndex[μ, D], LorentzIndex[ν, D]])/(1536*CA^2*CF*Pi^2)

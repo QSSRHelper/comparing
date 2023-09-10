@@ -1,0 +1,5 @@
+FourquarkCurrent[Current[fc, DiracGamma[LorentzIndex[ν, D], D], fb], Current[fd, 1, fa]]
+FourquarkCurrent[Current[fc, DiracGamma[LorentzIndex[ν, D], D] . DiracGamma[5], fb], Current[fd, DiracGamma[5], fa]]
+FourquarkCurrent[Current[fc, DiracGamma[LorentzIndex[$AL[$210], D], D] . DiracGamma[LorentzIndex[ν, D], D], fb], Current[fd, DiracGamma[LorentzIndex[$AL[$210], D], D], fa]]
+FourquarkCurrent[Current[fc, DiracSigma[DiracGamma[LorentzIndex[$AL[$210], D], D], DiracGamma[LorentzIndex[$AL[$220], D], D]] . DiracGamma[LorentzIndex[ν, D], D], fb], Current[fd, DiracSigma[DiracGamma[LorentzIndex[$AL[$210], D], D], DiracGamma[LorentzIndex[$AL[$220], D], D]], fa]]
+FourquarkCurrent[Current[fc, DiracGamma[LorentzIndex[$AL[$210], D], D] . DiracGamma[LorentzIndex[ν, D], D] . DiracGamma[5], fb], Current[fd, DiracGamma[LorentzIndex[$AL[$210], D], D] . DiracGamma[5], fa]]

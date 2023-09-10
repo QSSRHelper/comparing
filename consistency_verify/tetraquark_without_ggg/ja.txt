@@ -1,0 +1,1 @@
+FourquarkCurrent[Current[f1, a, DiracGamma[LorentzIndex[μ, D], D], f2, b], Current[-1, f3, b, 1, -1, f4, a]]
